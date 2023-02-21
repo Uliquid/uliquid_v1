@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "CarefulMath",
+  "sourceName": "contracts/Libraries.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122097578fb4f432e53c4dbe0e19efdad261d95f07b1ba9fa8855e82292fe3fdf29f64736f6c63430008090033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122097578fb4f432e53c4dbe0e19efdad261d95f07b1ba9fa8855e82292fe3fdf29f64736f6c63430008090033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
